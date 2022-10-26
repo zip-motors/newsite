@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+</head>
+<body>
+<h1 align="center">IT darsi</h1>
+<h2 style="color: red;">IT darsi</h2>
+<h3>IT darsi</h3>
+<h4>IT darsi</h4>
+<h5>IT darsi</h5>
+<h6>IT darsi</h6>
+<img src="muazm.jpg" width="600" height="400">
+<marquee>Bu animatsion yozuv</marquee>
+<p>Man IT darsiga keldim</p>
+</body>
+</html>
